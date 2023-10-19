@@ -10,7 +10,7 @@
 
 ## Generative for me in my creative practice
   - Looking/listening; male/female; technological/natural are all false binaries.
-  - How can resist false binaries and reimagine what gender *could* sound like with the use of technology?
+  - How can we resist false binaries and reimagine what gender *could* sound like with the use of technology?
 
 ## Who am I?
   - Improviser (hornist with sf nowave, sludge bands after conservatory)
@@ -70,7 +70,7 @@ Gestures generated from the Magenta Performance Recurrent Neural Network machine
 
 ## Current/future thinking
 - Algorithm/Avatar is my improvisational interlocutor whom I'm attempting to reassemble as I go
-- Generative Thinkers:
+- Generative Models:
   - [Adrian Piper](https://academic.oup.com/nyu-press-scholarship-online/book/23728/chapter-abstract/184952738?redirectedFrom=fulltext)
   - [Laurie Spiegel](https://www.researchgate.net/publication/326414280_Thoughts_on_composing_with_algorithms)
   - [Legacy Russell](https://www.legacyrussell.com/GLITCHFEMINISM)
