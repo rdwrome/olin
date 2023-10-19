@@ -68,12 +68,9 @@ Gestures generated from the Magenta Performance Recurrent Neural Network machine
 - feminized machines/machinized femmes.
 - resignified signal from: Fedha Sinon; Imane Anys; Cher; Pete Namlook and Uwe Schmidt; R.B. Braves; Roberto Cacciapaglia; and Jan Jelinek.
 
-
 ## Current/future thinking
 - Algorithm/Avatar is my improvisational interlocutor whom I'm attempting to reassemble as I go
 - Generative Thinkers:
   - [Adrian Piper](https://academic.oup.com/nyu-press-scholarship-online/book/23728/chapter-abstract/184952738?redirectedFrom=fulltext)
-Adrian Piper:
-- [Laurie Spiegel](https://www.researchgate.net/publication/326414280_Thoughts_on_composing_with_algorithms)
-  -
-- Legacy Russell:
+  - [Laurie Spiegel](https://www.researchgate.net/publication/326414280_Thoughts_on_composing_with_algorithms)
+  - [Legacy Russell](https://www.legacyrussell.com/GLITCHFEMINISM)
