@@ -1,5 +1,5 @@
 # [Cyborg Feminism LiveCoding](https://github.com/rdwrome/olin)
- 
+
 ## What is Sonic Cyborg Feminism?
 - Exploration of Sound/Gender/Technology intersections where:
   - [Listening has been feminized](https://www.tandfonline.com/doi/abs/10.1080/13534645.2017.1339969)
@@ -24,7 +24,7 @@
   - Started [SuperColliding](https://supercollider.github.io/) in 2011, making noise to improvise against on my horn
   - <3 for the SuperCollider message boards where I could be a curious, anonymous avatar (again, technology & gender)
   - Moved Paris in 2015 without my horn, Laptop became my primary instrument
-  - Joined UK-based offal [orchestra for femmes and laptops] in 2016
+  - Joined UK-based offal [orchestra for femmes and laptops](https://journals.sagepub.com/doi/epub/10.1177/0141778920973221) in 2016
   - <3 for online communities as migrant support systems
   - baby & pandemic = fully online
 
@@ -32,7 +32,7 @@
 - drone flight / birder's delight over the uncanny valley
 
 ### [Radiant Drift (2020)](https://panyrosasdiscos.bandcamp.com/album/radiant-drift)
-- Pregnant in the winter of 2019 with the fetus who would become my daughter, I made hydrophone recordings from my cervix periodically between viability and birth.<i>radiant drift</i> accounts for the relative motion of my daughter and me in spacialized audio as we individuated in gestation. The literal hydrophone recordings are set in counterpoint against a poetic rendering in analog electronics.
+- Pregnant in the winter of 2019 with the fetus who would become my daughter, I made hydrophone recordings from my cervix periodically between viability and birth. <i>radiant drift</i> accounts for the relative motion of my daughter and me in spacialized audio as we individuated in gestation. The literal hydrophone recordings are set in counterpoint against a poetic rendering in analog electronics.
 
 ### [Psalter ex Machina (2022)](https://celesound.bandcamp.com/album/psalter-ex-machina)
 - Art makes us human. When a machine makes art, it challenges that axiom. With certain advents in art-making technology, the relationship between art and humanity has been called into question. Today in the West the music technology that raises the debate is machine-learning algorithms; a generation ago it was MIDI; a century ago it was mechanical instruments; five centuries ago it was instruments other than voice.
@@ -56,37 +56,24 @@ Gestures generated from the Magenta Performance Recurrent Neural Network machine
     - Pedagogically accessible (with many, many caveats)
     - Affords criticality in our relationships to digital capitalism
   - TOPLAP (virtual gatheringplace for livecoders) MANIFESTO (the Rachel edit):
-  * Give us access to the performer’s mind, to the whole human instrument.
-  * Obscurantism is dangerous. Show us your screens…
-  * Embrace error, risk is the way to go. Live coding embraces worst practices.
-  * Code is an interface to oneself, and the self is an interface to culture. To code is to decode.
-  * Programming and programmer are both part of the runtime environment.
-  * We weave expression through algorithms that thrive in uncertainty.
-  * To hack is to play seriously. Rules are good because they can be changed.
+    * Give us access to the performer’s mind, to the whole human instrument.
+    * Obscurantism is dangerous. Show us your screens…
+    * Embrace error, risk is the way to go. Live coding embraces worst practices.
+    * Code is an interface to oneself, and the self is an interface to culture. To code is to decode.
+    * Programming and programmer are both part of the runtime environment.
+    * We weave expression through algorithms that thrive in uncertainty.
+    * To hack is to play seriously. Rules are good because they can be changed.
 
-///
-## RILF:
-feminized machines/machinized femmes
-resignified signal from: Imane Anys; Cher; Pete Namlook and Uwe Schmidt; R.B. Braves; Roberto Cacciapaglia; and Jan Jelinek. Fedha Sinon.
+## RILF (in progress):
+- feminized machines/machinized femmes.
+- resignified signal from: Fedha Sinon; Imane Anys; Cher; Pete Namlook and Uwe Schmidt; R.B. Braves; Roberto Cacciapaglia; and Jan Jelinek.
 
-# LiveCoding a la Rachelle
-- Affords criticality of our relationship to digital capitalism
-- I'm a cyborg but i have agency
 
-- Current solo practice kind of back to 2011 form:
-  - Laurie Spiegel: Algorithm as Avatar influential in my thinking
-  - Algorithm/Avatar is my improvisational interlocutor whom I'm attempting to reassemble as I go
-  - Chaos reigns!
-
-I'm not making high concept music anymore
-Fuck the concert hall
-dissemination MATTERS
-enough to write my own Code
-enough to be VERY VERY present to my surroundings
-bandcamp is dead
-
-Further reading:
-
-https://journals.sagepub.com/doi/epub/10.1177/0141778920973221
-
-Glitch Feminism
+## Current/future thinking
+- Algorithm/Avatar is my improvisational interlocutor whom I'm attempting to reassemble as I go
+- Generative Thinkers:
+  - [Adrian Piper](https://academic.oup.com/nyu-press-scholarship-online/book/23728/chapter-abstract/184952738?redirectedFrom=fulltext)
+Adrian Piper:
+- [Laurie Spiegel](https://www.researchgate.net/publication/326414280_Thoughts_on_composing_with_algorithms)
+  -
+- Legacy Russell:
