@@ -73,7 +73,6 @@ resignified signal from: Imane Anys; Cher; Pete Namlook and Uwe Schmidt; R.B. Br
 - Affords criticality of our relationship to digital capitalism
 - I'm a cyborg but i have agency
 
-
 - Current solo practice kind of back to 2011 form:
   - Laurie Spiegel: Algorithm as Avatar influential in my thinking
   - Algorithm/Avatar is my improvisational interlocutor whom I'm attempting to reassemble as I go
