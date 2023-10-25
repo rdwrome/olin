@@ -36,7 +36,7 @@
 
 ### [Psalter ex Machina (2022)](https://celesound.bandcamp.com/album/psalter-ex-machina)
 - Art makes us human. When a machine makes art, it challenges that axiom. With certain advents in art-making technology, the relationship between art and humanity has been called into question. Today in the West the music technology that raises the debate is machine-learning algorithms; a generation ago it was MIDI; a century ago it was mechanical instruments; five centuries ago it was instruments other than voice.
-<i>psalter</i> ex machina is a site-specific work for Orgelpark in Amsterdam which resignifies sounds from these advents using SuperCollider, Python, and OSC.
+<i>psalter ex machina</i> is a site-specific work for Orgelpark in Amsterdam which resignifies sounds from these advents using SuperCollider, Python, and OSC.
 Gestures generated from the Magenta Performance Recurrent Neural Network machine-learning algorithm trained on Jan Pieterszoon Sweelinck’s organ settings of the Genevan Psalm 116 are heard in the Sauer organ alongside sampled and processed recordings of the Solina String Ensemble Synthesizer and instruments from the Museum Spleelklok.
 
 ## DTR: Live Coding
