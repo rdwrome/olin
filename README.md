@@ -14,6 +14,7 @@
 
 ## Who am I?
   - Improviser (hornist with sf nowave, sludge bands after conservatory)
+    - horn study with David Jolley from Orpheus
     - embodiment
     - resist commodification
   - Came to technology through dual interests in information accessibility (adult literacy tutor, public, and corrections librarian) and independence!
@@ -55,7 +56,7 @@ Gestures generated from the Magenta Performance Recurrent Neural Network machine
     - Economically accessible ("The Laptop is the Guitar of the 21st Century" - Fred Frith)
     - Pedagogically accessible (with many, many caveats)
     - Affords criticality in our relationships to digital capitalism
-  - TOPLAP (virtual gatheringplace for livecoders) MANIFESTO (the Rachel edit):
+  - [TOPLAP (virtual gatheringplace for livecoders)](www.toplap.org) MANIFESTO (the Rachel edit):
     * Give us access to the performer’s mind, to the whole human instrument.
     * Obscurantism is dangerous. Show us your screens…
     * Embrace error, risk is the way to go. Live coding embraces worst practices.
